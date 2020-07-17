@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Globals:\n\n__builtins__ ┃ {'__doc__': \"Built-in functions, exceptions, and other objects.\\n\\nNoteworthy: None is the `nil' object; Ellipsis represents `...' in slices.\", 'oct': <built-in function oct>, 'NotImplemented': NotImplemented, 'InterruptedError': <class 'InterruptedError'>, 'input': <built-in function input>, 'NotImplementedError': <class 'NotImplementedError'>, 'bool': <class 'bool'>, 'RuntimeError': <class 'RuntimeError'>, 'Warning': <class 'Warning'>, 'chr': <built-in function chr>, 'hex': <built-in function hex>, 'UnboundLocalError': <class 'UnboundLocalError'>, 'FutureWarning': <class 'FutureWarning'>, 'IndexError': <class 'IndexError'>, 'UnicodeError': <class 'UnicodeError'>, 'DeprecationWarning': <class 'DeprecationWarning'>, 'zip': <class 'zip'>, 'ImportWarning': <class 'ImportWarning'>, '__debug__': True, 'hasattr': <built-in function hasattr>, '__name__': 'builtins', 'eval': <built-in function eval>, 'OverflowError': <class 'OverflowError'>, 'callable': <built-in function callable>, 'AssertionError': <class 'AssertionError'>, 'SyntaxError': <class 'SyntaxError'>, 'ConnectionResetError': <class 'ConnectionResetError'>, 'TypeError': <class 'TypeError'>, 'object': <class 'object'>, 'hash': <built-in function hash>, 'exec': <built-in function exec>, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, 'bin': <built-in function bin>, 'SystemError': <class 'SystemError'>, 'BaseException': <class 'BaseException'>, 'property': <class 'property'>, 'PendingDeprecationWarning': <class 'PendingDeprecationWarning'>, 'ResourceWarning': <class 'ResourceWarning'>, 'range': <class 'range'>, 'list': <class 'list'>, 'iter': <built-in function iter>, 'KeyboardInterrupt': <class 'KeyboardInterrupt'>, 'classmethod': <class 'classmethod'>, 'EOFError': <class 'EOFError'>, 'BlockingIOError': <class 'BlockingIOError'>, 'tuple': <class 'tuple'>, 'ValueError': <class 'ValueError'>, 'id': <built-in function id>, 'BufferError': <class 'BufferError'>, 'locals': <built-in function locals>, 'UnicodeDecodeError': <class 'UnicodeDecodeError'>, 'LookupError': <class 'LookupError'>, 'SystemExit': <class 'SystemExit'>, 'enumerate': <class 'enumerate'>, 'RuntimeWarning': <class 'RuntimeWarning'>, 'StopIteration': <class 'StopIteration'>, 'globals': <built-in function globals>, 'ZeroDivisionError': <class 'ZeroDivisionError'>, 'UnicodeEncodeError': <class 'UnicodeEncodeError'>, 'pow': <built-in function pow>, 'ImportError': <class 'ImportError'>, 'float': <class 'float'>, 'issubclass': <built-in function issubclass>, 'FileExistsError': <class 'FileExistsError'>, 'bytearray': <class 'bytearray'>, 'all': <built-in function all>, 'type': <class 'type'>, 'ReferenceError': <class 'ReferenceError'>, 'print': <built-in function print>, 'BytesWarning': <class 'BytesWarning'>, 'AttributeError': <class 'AttributeError'>, 'dict': <class 'dict'>, 'ConnectionAbortedError': <class 'ConnectionAbortedError'>, 'FileNotFoundError': <class 'FileNotFoundError'>, 'NameError': <class 'NameError'>, 'abs': <built-in function abs>, 'getattr': <built-in function getattr>, 'ConnectionError': <class 'ConnectionError'>, '__package__': None, 'UnicodeWarning': <class 'UnicodeWarning'>, 'sum': <built-in function sum>, 'False': False, 'min': <built-in function min>, 'PermissionError': <class 'PermissionError'>, 'slice': <class 'slice'>, 'IndentationError': <class 'IndentationError'>, 'super': <class 'super'>, '__build_class__': <built-in function __build_class__>, 'sorted': <built-in function sorted>, 'ProcessLookupError': <class 'ProcessLookupError'>, 'ord': <built-in function ord>, 'frozenset': <class 'frozenset'>, 'open': <built-in function open>, 'BrokenPipeError': <class 'BrokenPipeError'>, 'TabError': <class 'TabError'>, 'repr': <built-in function repr>, 'UnicodeTranslateError': <class 'UnicodeTranslateError'>, 'len': <built-in function len>, 'max': <built-in function max>, 'reversed': <class 'reversed'>, 'TimeoutError': <class 'TimeoutError'>, 'format': <built-in function format>, 'map': <class 'map'>, 'next': <built-in function next>, 'round': <built-in function round>, 'True': True, 'dir': <built-in function dir>, 'IOError': <class 'OSError'>, 'NotADirectoryError': <class 'NotADirectoryError'>, 'staticmethod': <class 'staticmethod'>, 'ConnectionRefusedError': <class 'ConnectionRefusedError'>, 'str': <class 'str'>, 'ArithmeticError': <class 'ArithmeticError'>, 'compile': <built-in function compile>, 'filter': <class 'filter'>, 'bytes': <class 'bytes'>, 'FloatingPointError': <class 'FloatingPointError'>, 'MemoryError': <class 'MemoryError'>, 'Ellipsis': Ellipsis, 'setattr': <built-in function setattr>, 'delattr': <built-in function delattr>, 'OSError': <class 'OSError'>, 'None': None, 'any': <built-in function any>, 'ascii': <built-in function ascii>, 'vars': <built-in function vars>, 'memoryview': <class 'memoryview'>, 'isinstance': <built-in function isinstance>, 'UserWarning': <class 'UserWarning'>, 'divmod': <built-in function divmod>, 'EnvironmentError': <class 'OSError'>, 'SyntaxWarning': <class 'SyntaxWarning'>, 'KeyError': <class 'KeyError'>, '__import__': <built-in function __import__>, 'int': <class 'int'>, 'complex': <class 'complex'>, 'IsADirectoryError': <class 'IsADirectoryError'>, 'GeneratorExit': <class 'GeneratorExit'>, 'ChildProcessError': <class 'ChildProcessError'>, 'set': <class 'set'>, 'Exception': <class 'Exception'>}\n__file__     ┃ '/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/train.py'\n__name__     ┃ '__main__'\n\nLocals:\n\n__builtins__ ┃ {'__doc__': \"Built-in functions, exceptions, and other objects.\\n\\nNoteworthy: None is the `nil' object; Ellipsis represents `...' in slices.\", 'oct': <built-in function oct>, 'NotImplemented': NotImplemented, 'InterruptedError': <class 'InterruptedError'>, 'input': <built-in function input>, 'NotImplementedError': <class 'NotImplementedError'>, 'bool': <class 'bool'>, 'RuntimeError': <class 'RuntimeError'>, 'Warning': <class 'Warning'>, 'chr': <built-in function chr>, 'hex': <built-in function hex>, 'UnboundLocalError': <class 'UnboundLocalError'>, 'FutureWarning': <class 'FutureWarning'>, 'IndexError': <class 'IndexError'>, 'UnicodeError': <class 'UnicodeError'>, 'DeprecationWarning': <class 'DeprecationWarning'>, 'zip': <class 'zip'>, 'ImportWarning': <class 'ImportWarning'>, '__debug__': True, 'hasattr': <built-in function hasattr>, '__name__': 'builtins', 'eval': <built-in function eval>, 'OverflowError': <class 'OverflowError'>, 'callable': <built-in function callable>, 'AssertionError': <class 'AssertionError'>, 'SyntaxError': <class 'SyntaxError'>, 'ConnectionResetError': <class 'ConnectionResetError'>, 'TypeError': <class 'TypeError'>, 'object': <class 'object'>, 'hash': <built-in function hash>, 'exec': <built-in function exec>, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, 'bin': <built-in function bin>, 'SystemError': <class 'SystemError'>, 'BaseException': <class 'BaseException'>, 'property': <class 'property'>, 'PendingDeprecationWarning': <class 'PendingDeprecationWarning'>, 'ResourceWarning': <class 'ResourceWarning'>, 'range': <class 'range'>, 'list': <class 'list'>, 'iter': <built-in function iter>, 'KeyboardInterrupt': <class 'KeyboardInterrupt'>, 'classmethod': <class 'classmethod'>, 'EOFError': <class 'EOFError'>, 'BlockingIOError': <class 'BlockingIOError'>, 'tuple': <class 'tuple'>, 'ValueError': <class 'ValueError'>, 'id': <built-in function id>, 'BufferError': <class 'BufferError'>, 'locals': <built-in function locals>, 'UnicodeDecodeError': <class 'UnicodeDecodeError'>, 'LookupError': <class 'LookupError'>, 'SystemExit': <class 'SystemExit'>, 'enumerate': <class 'enumerate'>, 'RuntimeWarning': <class 'RuntimeWarning'>, 'StopIteration': <class 'StopIteration'>, 'globals': <built-in function globals>, 'ZeroDivisionError': <class 'ZeroDivisionError'>, 'UnicodeEncodeError': <class 'UnicodeEncodeError'>, 'pow': <built-in function pow>, 'ImportError': <class 'ImportError'>, 'float': <class 'float'>, 'issubclass': <built-in function issubclass>, 'FileExistsError': <class 'FileExistsError'>, 'bytearray': <class 'bytearray'>, 'all': <built-in function all>, 'type': <class 'type'>, 'ReferenceError': <class 'ReferenceError'>, 'print': <built-in function print>, 'BytesWarning': <class 'BytesWarning'>, 'AttributeError': <class 'AttributeError'>, 'dict': <class 'dict'>, 'ConnectionAbortedError': <class 'ConnectionAbortedError'>, 'FileNotFoundError': <class 'FileNotFoundError'>, 'NameError': <class 'NameError'>, 'abs': <built-in function abs>, 'getattr': <built-in function getattr>, 'ConnectionError': <class 'ConnectionError'>, '__package__': None, 'UnicodeWarning': <class 'UnicodeWarning'>, 'sum': <built-in function sum>, 'False': False, 'min': <built-in function min>, 'PermissionError': <class 'PermissionError'>, 'slice': <class 'slice'>, 'IndentationError': <class 'IndentationError'>, 'super': <class 'super'>, '__build_class__': <built-in function __build_class__>, 'sorted': <built-in function sorted>, 'ProcessLookupError': <class 'ProcessLookupError'>, 'ord': <built-in function ord>, 'frozenset': <class 'frozenset'>, 'open': <built-in function open>, 'BrokenPipeError': <class 'BrokenPipeError'>, 'TabError': <class 'TabError'>, 'repr': <built-in function repr>, 'UnicodeTranslateError': <class 'UnicodeTranslateError'>, 'len': <built-in function len>, 'max': <built-in function max>, 'reversed': <class 'reversed'>, 'TimeoutError': <class 'TimeoutError'>, 'format': <built-in function format>, 'map': <class 'map'>, 'next': <built-in function next>, 'round': <built-in function round>, 'True': True, 'dir': <built-in function dir>, 'IOError': <class 'OSError'>, 'NotADirectoryError': <class 'NotADirectoryError'>, 'staticmethod': <class 'staticmethod'>, 'ConnectionRefusedError': <class 'ConnectionRefusedError'>, 'str': <class 'str'>, 'ArithmeticError': <class 'ArithmeticError'>, 'compile': <built-in function compile>, 'filter': <class 'filter'>, 'bytes': <class 'bytes'>, 'FloatingPointError': <class 'FloatingPointError'>, 'MemoryError': <class 'MemoryError'>, 'Ellipsis': Ellipsis, 'setattr': <built-in function setattr>, 'delattr': <built-in function delattr>, 'OSError': <class 'OSError'>, 'None': None, 'any': <built-in function any>, 'ascii': <built-in function ascii>, 'vars': <built-in function vars>, 'memoryview': <class 'memoryview'>, 'isinstance': <built-in function isinstance>, 'UserWarning': <class 'UserWarning'>, 'divmod': <built-in function divmod>, 'EnvironmentError': <class 'OSError'>, 'SyntaxWarning': <class 'SyntaxWarning'>, 'KeyError': <class 'KeyError'>, '__import__': <built-in function __import__>, 'int': <class 'int'>, 'complex': <class 'complex'>, 'IsADirectoryError': <class 'IsADirectoryError'>, 'GeneratorExit': <class 'GeneratorExit'>, 'ChildProcessError': <class 'ChildProcessError'>, 'set': <class 'set'>, 'Exception': <class 'Exception'>}\n__file__     ┃ '/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/train.py'\n__name__     ┃ '__main__'",
+			"settings":
+			{
+				"buffer_size": 11017,
+				"line_ending": "Unix",
+				"name": "Variables"
+			}
+		},
+		{
+			"contents": "a ┃ name 'a' is not defined",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Unix",
+				"name": "Expression"
+			}
+		},
+		{
+			"contents": "/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/evaluate.py\n\n/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/train.py\n265 ┃ ",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Unix",
+				"name": "Breakpoints"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"deb",
+				"Debugger: Install Adapters"
+			],
+			[
+				"debugger: insta",
+				"Debugger: Install Adapters"
+			],
+			[
+				"de",
+				"Debugger: Open"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/__pycache__",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/data",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/log",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/models"
+	],
+	"file_history":
+	[
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/models/transform_nets.py",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/evaluate.py",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/train.py",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/models/dgcnn.py",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/data/modelnet40_ply_hdf5_2048/ply_data_train_2_id2file.json",
+		"/home/kuramin/.config/sublime-text-3/Packages/GoDebug/GoDebug.sublime-settings",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tf_cls.sublime-project",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/data/modelnet40_ply_hdf5_2048/ply_data_test_0_id2file.json",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/log/dgcnn.py",
+		"/home/kuramin/Diploma/repos/DGCNN_tf/dgcnn-1/tensorflow/log/train.py",
+		"/home/kuramin/Diploma/repos/PointCNN_shapenet_seg/PointCNN/data_conversions/download_datasets.py",
+		"/home/kuramin/Diploma/repos/PointCNN_shapenet_seg/PointCNN/data_conversions/prepare_partseg_data.py",
+		"/home/kuramin/Diploma/repos/PointCNN/PointCNN/modelnet_cls.ipynb",
+		"/home/kuramin/my_realsense_config.json",
+		"/home/kuramin/Downloads/read_from_zip.py",
+		"/home/kuramin/Diploma/repos/PointCNN/data/modelnet/ply_data_test_0_id2file.json",
+		"/home/kuramin/Downloads/daytime_highway_bdd100k_labels_images_val.json",
+		"/home/kuramin/Downloads/daytime_highway_bdd100k_labels_images_train.json"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toilet",
+			"events",
+			"label_seg_min"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"category_label_seg_min"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5482,
+								5482
+							]
+						],
+						"settings":
+						{
+							"gutter": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"gutter": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"gutter": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				1,
+				2,
+				2,
+				3
+			],
+			[
+				1,
+				3,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.8,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0,
+			0.6,
+			0.8
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.help":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "tf_cls.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

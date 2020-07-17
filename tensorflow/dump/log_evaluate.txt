@@ -1,0 +1,47 @@
+BATCH_SIZE = 4, NUM_POINT = 1024, GPU_INDEX = 0
+Model restored.
+----0----
+----1----
+eval mean loss: 1.453585
+eval accuracy: 0.907212
+eval avg class acc: 0.879930
+  airplane:	1.000
+   bathtub:	0.960
+       bed:	0.990
+     bench:	0.700
+ bookshelf:	0.950
+    bottle:	0.980
+      bowl:	1.000
+       car:	0.990
+     chair:	0.960
+      cone:	0.950
+       cup:	0.750
+   curtain:	0.900
+      desk:	0.802
+      door:	0.900
+   dresser:	0.744
+flower_pot:	0.300
+ glass_box:	0.930
+    guitar:	1.000
+  keyboard:	1.000
+      lamp:	0.900
+    laptop:	1.000
+    mantel:	0.950
+   monitor:	0.990
+night_stand:	0.791
+    person:	0.950
+     piano:	0.950
+     plant:	0.780
+     radio:	0.950
+range_hood:	0.960
+      sink:	0.800
+      sofa:	0.980
+    stairs:	0.900
+     stool:	0.800
+     table:	0.820
+      tent:	0.950
+    toilet:	0.990
+  tv_stand:	0.850
+      vase:	0.830
+  wardrobe:	0.650
+      xbox:	0.600

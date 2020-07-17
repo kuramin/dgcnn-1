@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "tensorflow"
+		}
+	],
+	"settings":
+	{
+		"debug.configurations":
+		[
+			{
+				"request": "launch|attach", 
+				"type": "vscode-python", 
+				"name": "My debugger config"
+			},
+		]
+	}
+}
